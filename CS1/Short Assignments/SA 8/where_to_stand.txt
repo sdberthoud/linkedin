@@ -1,0 +1,76 @@
+n = 5, k = 2
+
+Enter the number of soldiers, at least 2: 5
+Enter the spacing between victims, between 1 and the last number entered: 2
+Soldier 2 has been killed.
+Soldier 4 has been killed.
+Soldier 1 has been killed.
+Soldier 5 has been killed.
+The last remaining soldier is soldier 3
+
+n = 16, k = 3
+
+Enter the number of soldiers, at least 2: 16
+Enter the spacing between victims, between 1 and the last number entered: 3
+Soldier 3 has been killed.
+Soldier 6 has been killed.
+Soldier 9 has been killed.
+Soldier 12 has been killed.
+Soldier 15 has been killed.
+Soldier 2 has been killed.
+Soldier 7 has been killed.
+Soldier 11 has been killed.
+Soldier 16 has been killed.
+Soldier 5 has been killed.
+Soldier 13 has been killed.
+Soldier 4 has been killed.
+Soldier 14 has been killed.
+Soldier 10 has been killed.
+Soldier 1 has been killed.
+The last remaining soldier is soldier 8
+
+n = 41, k = 2
+
+Enter the number of soldiers, at least 2: 41
+Enter the spacing between victims, between 1 and the last number entered: 2
+Soldier 2 has been killed.
+Soldier 4 has been killed.
+Soldier 6 has been killed.
+Soldier 8 has been killed.
+Soldier 10 has been killed.
+Soldier 12 has been killed.
+Soldier 14 has been killed.
+Soldier 16 has been killed.
+Soldier 18 has been killed.
+Soldier 20 has been killed.
+Soldier 22 has been killed.
+Soldier 24 has been killed.
+Soldier 26 has been killed.
+Soldier 28 has been killed.
+Soldier 30 has been killed.
+Soldier 32 has been killed.
+Soldier 34 has been killed.
+Soldier 36 has been killed.
+Soldier 38 has been killed.
+Soldier 40 has been killed.
+Soldier 1 has been killed.
+Soldier 5 has been killed.
+Soldier 9 has been killed.
+Soldier 13 has been killed.
+Soldier 17 has been killed.
+Soldier 21 has been killed.
+Soldier 25 has been killed.
+Soldier 29 has been killed.
+Soldier 33 has been killed.
+Soldier 37 has been killed.
+Soldier 41 has been killed.
+Soldier 7 has been killed.
+Soldier 15 has been killed.
+Soldier 23 has been killed.
+Soldier 31 has been killed.
+Soldier 39 has been killed.
+Soldier 11 has been killed.
+Soldier 27 has been killed.
+Soldier 3 has been killed.
+Soldier 35 has been killed.
+The last remaining soldier is soldier 19

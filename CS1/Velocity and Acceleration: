@@ -1,0 +1,39 @@
+Velocity and Acceleration:
+	position:
+		y = y + timestep * v_y
+		m = m +        s * m/s
+
+	velocity:
+		v_y = v_y + timestep * a_y
+		m/s = m/s +        s * m/s^2
+
+	v_y < 0, a_y = -9.8 m/s^2
+
+Springs:
+	f = m * a
+	a = m / f
+	  = k * d / m
+	ball has position = (x, y)
+	"Post" has position = (Sx, Sy)
+	d = sqrt[(Sx - x)^2 + (Sy - y)^2]
+
+recursive vs. iterative:
+	
+	Iterative:
+		if n == 0
+			n! = 1
+		if n > 0
+			n! = n * (n-1) * (n-2) * ... * 1
+
+
+	Recursive:
+		if n == 0
+			n! = 1
+
+		if n > 0
+			n! = n * (n-1)!
+
+	the stack: the list of functions that are called by each other
+	a frame: one single function that shows variables and where it returns
+	pushing: adding a function to the call stack
+	poping: when a function is done being called, removing a function from the call stack

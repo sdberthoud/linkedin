@@ -1,0 +1,1 @@
+I see a bunch of randomly generated ellipses appearing in random places all over the screen that say "welcome to CS1!" in different colors.

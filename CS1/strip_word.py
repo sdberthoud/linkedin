@@ -1,0 +1,10 @@
+def strip_word( w ):
+    w = replace( w, ".", "" )
+    w = replace( w, ",", "" )
+    w = replace( w, ";", "" )
+    w = replace( w, ":", "" )
+    w = replace( w, "'", "" )
+    w = replace( w, "&", "" )
+    w = replace( w, "\n", "" )
+    w = w.lower()
+    return( w )
